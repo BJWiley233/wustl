@@ -1,4 +1,4 @@
-There are two shell files for this task in addition to edited Dockerfile:
+### There are two shell files for this task in addition to edited Dockerfile:
 
 	1. First sh is install_and_add_user.sh
 		This file was just used to keep track of commands for installing docker
